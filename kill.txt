@@ -1,5 +1,5 @@
 Made by @▄ █ち匚尺丹ㄗㄗㄚ█ ▄#8876 
-# NOT CHECKED 
+# NOT CHECKED
 
 {delete} 
 {silent} 
@@ -11,3 +11,5 @@ Made by @▄ █ち匚尺丹ㄗㄗㄚ█ ▄#8876
 🕵Killer:{user} 
 🚷Killed:$1 
 🔥 Kill reason: $2+
+
+Command has not been checked for a duplicate.
